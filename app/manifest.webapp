@@ -1,0 +1,24 @@
+{
+  "version": "1.0.0",
+  "name": "angular-web-starter-kit",
+  "launch_path": "/index.html",
+  "description": "web-starter-kit generated with yeoman/generator-mobile and extended with angular for single-page",
+  "icons": {
+    "128": "/images/touch/icon-128x128.png"
+  },
+  "developer": {
+    "name": "",
+    "url": ""
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en",
+  "permissions": {},
+  "locales": {
+    "en": {
+      "name": "ten-sec-draw",
+      "description": "draw something with canvas in ten sec."
+    }
+  }
+}
