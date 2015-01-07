@@ -17,8 +17,8 @@
   "permissions": {},
   "locales": {
     "en": {
-      "name": "ten-sec-draw",
-      "description": "draw something with canvas in ten sec."
+      "name": "angular-web-starter-kit",
+      "description": "web-starter-kit generated with yeoman/generator-mobile and extended with angular for single-page"
     }
   }
 }
